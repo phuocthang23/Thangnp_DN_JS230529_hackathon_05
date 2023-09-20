@@ -1,0 +1,115 @@
+[
+  {
+    "game": [
+      {
+        "id": 16,
+        "players": [
+          {
+            "idPlayer": 1,
+            "name": "a1",
+            "rounds": [
+              {
+                "idRound": 1,
+                "score": -2
+              },
+              {
+                "idRound": 2,
+                "score": 4
+              },
+              {
+                "idRound": 3,
+                "score": 0
+              },
+              {
+                "idRound": 4,
+                "score": 0
+              },
+              {
+                "idRound": 5,
+                "score": 1
+              }
+            ]
+          },
+          {
+            "idPlayer": 2,
+            "name": "a4",
+            "rounds": [
+              {
+                "idRound": 1,
+                "score": 1
+              },
+              {
+                "idRound": 2,
+                "score": 2
+              },
+              {
+                "idRound": 3,
+                "score": 0
+              },
+              {
+                "idRound": 4,
+                "score": 0
+              },
+              {
+                "idRound": 5,
+                "score": 4
+              }
+            ]
+          },
+          {
+            "idPlayer": 3,
+            "name": "a3",
+            "rounds": [
+              {
+                "idRound": 1,
+                "score": 1
+              },
+              {
+                "idRound": 2,
+                "score": 1
+              },
+              {
+                "idRound": 3,
+                "score": 0
+              },
+              {
+                "idRound": 4,
+                "score": 0
+              },
+              {
+                "idRound": 5,
+                "score": 1
+              }
+            ]
+          },
+          {
+            "idPlayer": 4,
+            "name": "a2",
+            "rounds": [
+              {
+                "idRound": 1,
+                "score": 2
+              },
+              {
+                "idRound": 2,
+                "score": 2
+              },
+              {
+                "idRound": 3,
+                "score": 0
+              },
+              {
+                "idRound": 4,
+                "score": 0
+              },
+              {
+                "idRound": 5,
+                "score": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
