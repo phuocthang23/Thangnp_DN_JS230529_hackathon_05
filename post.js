@@ -57,7 +57,7 @@ app.put("/api/v1/posts/put/:id", (req, res) => {
   const userIndex = dataUser.findIndex((user) => user.id == idParam);
   if (userIndex !== -1) {
     dataUser[userIndex] = { ...dataUser[userIndex], ...updateUser };
-    fs.writeFileSync("./posts.json", JSON.stringify(dataUser));
+    fs.writeFileSync("./posts.json", JSON.stringify + dataUser);
     res.status(200).json({
       message: "User updated successfully",
     });
